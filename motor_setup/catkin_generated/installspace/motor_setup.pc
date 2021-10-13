@@ -1,0 +1,8 @@
+prefix=/home/kg/Test/install
+
+Name: motor_setup
+Description: Description of motor_setup
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
